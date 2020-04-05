@@ -1,8 +1,33 @@
 # Portfolio
 
+- [Production](#production)
+  - [Deployment](#deployment)
+  - [GitHub pages](#github-pages)
+- [Development](#development)
+  - [Troubleshooting](#troubleshooting)
+    - [Branch named 'master' already exists](#branch-named-master-already-exists)
+- [References](#references)
+
+## Production
+
+### Deployment
+
+Commit your changes, on the `source` branch, then run the following command:
+
+    yarn deploy
+
+### GitHub pages
+
+If you wish to have a custom domain for you portfolio, add a `CNAME` file to the 
+`dist` folder with your custom domain in it. E.g: `greganswer.com`.
+
+Reference: [Custom domain gets deleted on deploy - CNAME not working](https://github.com/tschaub/gh-pages/issues/236)
+
 ## Development
 
 ### Troubleshooting
+
+#### Branch named 'master' already exists
 
 If you see the following error:
 
