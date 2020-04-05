@@ -1,4 +1,6 @@
 const Webpack = require("webpack");
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+
 module.exports = {
   entry: {
     vendor: "./src/vendor.js",
@@ -30,6 +32,9 @@ module.exports = {
     new Webpack.ProvidePlugin({
       $: "jquery",
       jQuery: "jquery"
-    })
+    }),
+    new CopyWebpackPlugin([
+      'src/CNAME'
+    ]),
   ]
 };
