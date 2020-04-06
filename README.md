@@ -18,8 +18,20 @@ Commit your changes, on the `source` branch, then run the following command:
 
 ### GitHub pages
 
-If you wish to have a custom domain for you portfolio, add a `CNAME` file to the 
-`dist` folder with your custom domain in it. E.g: `greganswer.com`.
+If you wish to have a custom domain for you portfolio, 
+
+1. Add the [copy-webpack-plugin](https://www.npmjs.com/package/copy-webpack-plugin)
+1. Add a `CNAME` file to the `src` folder with your custom domain in it. E.g: `greganswer.com`
+1. Add the following to the `plugins` section of `webpack.common.js` file:
+
+    ```javascript
+    // This config allows to use jQuery $ sign
+      plugins: [
+        new CopyWebpackPlugin([
+          'src/CNAME'
+        ]),
+      ]
+    ```
 
 Reference: [Custom domain gets deleted on deploy - CNAME not working](https://github.com/tschaub/gh-pages/issues/236)
 
