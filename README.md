@@ -12,9 +12,11 @@
 
 ### Deployment
 
-Commit your changes, on the `source` branch, then run the following command:
+Make your changes, on the `source` branch, then run the following command:
 
     yarn deploy
+
+Then commit your changes and push the `source` branch.
 
 ### GitHub pages
 
