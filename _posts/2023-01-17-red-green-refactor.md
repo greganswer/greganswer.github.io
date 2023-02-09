@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: test-driven-development time-management
 ---
 
 Note the order. Red, then Green, then Refactor. Those of you who practice Test Driven Development will deeply understand the importance of this mantra for the three phases of development. I’d like to take it a step further and explain examples of not following the order or spending too much time in the wrong phase.

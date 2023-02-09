@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: problem-solving
 ---
 
 I reminded the team that it’s important to create and use your own Problem Solving Template. This should be based on your strengths and weaknesses as an engineer. I highly recommend reading chapter 1 and 8 in the book Think Like a Programmer.

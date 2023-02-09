@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: problem-solving
 ---
 
 Every so often, I come across Merge Request that slowly grow in size. They start out as 100 lines of code change, then 20 commits later it’s 500 lines long! This is a symptom of poor planning and task break down.

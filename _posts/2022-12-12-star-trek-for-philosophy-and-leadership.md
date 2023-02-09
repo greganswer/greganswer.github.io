@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: star-trek leadership
 ---
 
 I was talking to some teammates about leadership and I mentioned that most of my leadership strategies are directly influenced by Star Trek. I’ve watched a lot of Star Trek. I’ve definitely watched all the movies. Some more than once. The “problem” is every time I finish a TV series, they come out with a new one. Or a new two. Or a new animated series.

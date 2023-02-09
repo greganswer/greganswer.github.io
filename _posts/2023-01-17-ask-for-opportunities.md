@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: opportunity
 ---
 
 Engineers often say to me “I don’t get to learn <INSERT_CONCEPT_HERE> on the job. How do I get to practice it?” I say bologna! Ask for the opportunity, or better yet make it! Talk to your team, your manager, other teams, etc. You can say things like:
