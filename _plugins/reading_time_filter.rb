@@ -1,3 +1,4 @@
+# https://github.com/risan/jekyll-reading-time
 module ReadingTimeFilter
   include Liquid::StandardFilters
 
