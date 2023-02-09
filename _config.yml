@@ -79,6 +79,7 @@ gems:
 
 plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
@@ -87,3 +88,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+paginate: 10
+paginate_path: "/blog/page:num/"
