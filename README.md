@@ -70,22 +70,22 @@ It covers:
 
 ## Jekyll Now Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)
+✓ Sass/Coffeescript support using Jekyll 2.0
+✓ Free hosting on your GitHub Pages user site
+✓ Markdown blogging
+✓ Syntax highlighting
+✓ Disqus commenting
+✓ Google Analytics integration
+✓ SVG social icons for your footer
+✓ 3 http requests, including your avatar
 
 ✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+✘ No need to set up local development
+✘ No configuring plugins
+✘ No need to spend time on theming
+✘ More time to code other things ... wait ✓!
 
 ## Questions?
 
@@ -101,6 +101,19 @@ You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-sta
 - [Left](https://github.com/holman/left) by Zach Holman
 - [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
 - [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
+
+## Implementation notes
+
+### Tag pages
+
+Tag pages are auto-generated via a Python script which is auto-run on `:post_write` by a Jekyll hook.
+
+Jekyll [hooks](https://jekyllrb.com/docs/plugins/hooks/) are a subtype of [plugins](https://jekyllrb.com/docs/plugins/installation/). The build tool expects to see `.rb` files placed in the `_plugins` directory.
+
+**Links**
+
+- https://rfong.github.io/rflog/2020/02/28/jekyll-tags/
+- https://mindthecode.com/blog/sorting-tags-in-jekyll
 
 ## Credits
 
