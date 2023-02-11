@@ -317,6 +317,15 @@ footer {
   font-style: italic;
   font-size: .9em;
 }
+
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica,Arial,sans-serif;
+  max-width: 600px;
+  margin-top: 5em;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
