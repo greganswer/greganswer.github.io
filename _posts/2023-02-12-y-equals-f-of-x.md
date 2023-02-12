@@ -4,13 +4,11 @@ tags: math debugging time-management problem-solving personal-favorite
 title: Y equals f of x
 ---
 
-## Functional notation for design and debugging
-
-`y = f(x)` is commonly referred to as a "functional notation”. It is a mathematical equation that represents a relationship between two variables, `x` and `y`. Think of `x` as the input, and `y` as the output. The function `f` takes in the input `x`, processes it in some way, and then produces an output, represented by `y`.
+We're going to talk about a little bit of math and why it's important for designing and debugging code. `y = f(x)` is commonly referred to as a "functional notation”. It is a mathematical equation that represents a relationship between two variables, `x` and `y`. Think of `x` as the input, and `y` as the output. The function `f` takes in the input `x`, processes it in some way, and then produces an output, represented by `y`.
 
 I chose to display it as `y = f(x)` instead of `f(x) = y` because I wanted to emphasize the output of the function. As a *“user-centric”* and *“product-centric”* developer I prefer to focus on outputs and desired behaviour.
 
-Why is this important in designing or debugging? **We often overthink things, especially while designing or debugging code.** This overthinking can lead us in the wrong directions. Best case scenario, we waste time and start over. Worst case scenario we end up designing or fixing the wrong things. If we can remember to get back to the basics, this will help guide us in the right direction.
+Why is this important for designing and debugging? **We often overthink things, especially while designing and debugging code.** This overthinking can lead us in the wrong directions. Best case scenario, we waste time and start over. Worst case scenario we end up designing or fixing the wrong things. If we can remember to get back to the basics, this will help guide us in the right direction.
 
 For designing, here’s a list of things to consider:
 
