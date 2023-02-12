@@ -8,15 +8,15 @@ We're going to talk about a little bit of math and why it's important for design
 
 I chose to display it as `y = f(x)` instead of `f(x) = y` because I wanted to emphasize the output of the function. As a *“user-centric”* and *“product-centric”* developer I prefer to focus on outputs and desired behaviour.
 
-Why is this important for designing and debugging? **We often overthink things, especially while designing and debugging code.** This overthinking can lead us in the wrong directions. Best case scenario, we waste time and start over. Worst case scenario we end up designing or fixing the wrong things. If we can remember to get back to the basics, this will help guide us in the right direction.
+Why is this important for designing and debugging? **We often over complicate things, especially while designing and debugging code.** This can lead us in the wrong direction. Best case scenario, we waste time and start over. Worst case scenario we end up designing or fixing the wrong thing. The simplicity of `y = f(x)` can help guide us back in the right direction.
 
-For designing, here’s a list of things to consider:
+For designing, consider the following:
 
 1. **What’s the big picture `y = f(x)`?** We need to know the expected inputs and outputs before we can design the code.
 2. **How can we document this?** What’s simplest way that we can show `y = f(x)` to users and stakeholders so they can verify that the system is working as expected? Rely on diagrams, screenshots, and videos.
 3. **How do we design this?** By using `y = f(x)` functional notation, we can break down complex algorithms into smaller, more manageable parts that can be tested and debugged more easily.
 
-For debugging, here’s a list of things to consider:
+For debugging, consider the following:
 
 1. If the output `y` is correct, the function `f` and the input `x` don’t really matter. The **user is getting the desired behaviour.**
 2. If the output `y` is incorrect, the first thing you should check the input `x`. In my experience, 80% of the time the input is incorrect. **User error.** Can’t blame the code.
