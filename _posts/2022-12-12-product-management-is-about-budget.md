@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: product-management tech-debt time-management
+tags: product-management tech-debt time-management personal-favorite
 ---
 
 Those of you who’ve done freelancing will know if you say to the client *“Feature X will take 3 weeks at $1,000 a week… that’ll be $3,000 plus tax”* they’re going to have a fit. *“We want it cheaper, faster, blah blah blah…”* **Think of it from the client’s perspective. $3K is a lot!** For one feature. And we don’t even know if they’ll get that $3K back. They’ve got other things that might take priority and get that money instead. Now imagine someone else walked in and said, *“I can do a $600 version for you in 3 days and if need be, I can spend another 7 days and enhance it for another $1,400. That’d be 10 days and $2,000 plus tax.”* Who you gonna work with (all other things equal)?
@@ -13,7 +13,7 @@ As engineers, we complain that we don’t get to do tech debt. That’s often be
 
 I believe that 80-90% of the tech debt tickets I’ve ever created on any project will never be worth doing. Maybe even 90%, but that’s another story for another time. You can search Jira for countless examples of my closed tickets and my open tickets that should be closed.
 
-Here’s an example of a “simple” tech debt that was not worth doing. There was a class attribute that had a singular name because it initially returned a single string. It was later changed to return an array of strings. I wrote a tech debt ticket to rename it and fix all the tests. 
+Here’s an example of a “simple” tech debt that was not worth doing. There was a class attribute that had a singular name because it initially returned a single string. It was later changed to return an array of strings. I wrote a tech debt ticket to rename it and fix all the tests.
 
 I initially thought it would take 20-60 minutes to update all references using RubyMine’s advanced, context-aware “find and replace”. Simply run the tests and update as necessary right? Wrong!
 
