@@ -17,4 +17,4 @@ On this site, I share my experience on important concepts like:
 
 My hobbies include studying software engineering, weight lifting, yoga, and of course, I couldn't live without [Star Trek](/tags/star-trek).
 
-If you liked the posts linked above, check out[more blog posts](/blog).
+If you liked the posts linked above, check out [more blog posts](/blog).
