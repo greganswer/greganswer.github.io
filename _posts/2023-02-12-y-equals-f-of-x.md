@@ -48,4 +48,4 @@ Part of the reason why I consistently think of code in the form of `y = f(x)` is
 ## Series
 
 1. Y equals f of x *(current)*
-1. [Functional mental model for design]({% post_url 2023-02-14-functional-mental-model-for-design %})
+1. [Functional mental model for design]({% post_url 2023-02-15-functional-mental-model-for-design %})
