@@ -84,4 +84,3 @@ It doesn’t matter. **We know that given the set of inputs, we’re expecting a
 
 1. [Y equals f of x]({% post_url 2023-02-12-y-equals-f-of-x %})
 1. Functional mental model for design *(current)*
-
