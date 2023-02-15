@@ -119,7 +119,7 @@ code {
   margin: 0;
   font-size: 85%;
   white-space: break-spaces;
-  background-color: rgba(175,184,193,0.2);
+  background-color: #efefef;
   border-radius: 6px;
 }
 
@@ -338,4 +338,10 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
+.highlight {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+  overflow: auto
+}
 @import "svg-icons";

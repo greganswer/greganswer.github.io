@@ -43,3 +43,9 @@ Part of the reason why I consistently think of code in the form of `y = f(x)` is
 - Use the `y = f(x)` functional notation mental model to help with designing and debugging code
 - Time-box your "quick" debugging sessions and then switch to "long" debugging sessions (with a pair when possible)
 - Be prepared to read code line-by-line when necessary
+
+
+## Series
+
+1. Y equals f of x *(current)*
+1. [Functional mental model for design]({% post_url 2023-02-14-functional-mental-model-for-design %})
