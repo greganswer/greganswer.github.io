@@ -19,4 +19,8 @@ Consider breaking down each task into the following Merge Requests (in order):
 
 Of course each task is different and you may not need all of these. Three or more Merge Request are often easier and faster to merge than one large one. Also, you could break these down further, for example, 2 migration Merge Requests and 3 model Merge Requests, etc.
 
-NOTE: **You should be refactoring as you go but don’t go over your time budget!** If you get to step 5 and think of a way to refactor the code, save it for step 7. Refactoring should not change behaviour so it can be done once the feature is fully functioning. If you need to change behaviour, perhaps you need to spend more time with upfront planning and sharing this plan with other senior engineers who have context and are good at breaking down work.
+NOTE: **You should be refactoring as you go but don’t go over your time budget!**
+
+If you get to step 5 and think of a way to refactor the code, save it for step 7. Refactoring should not change behaviour so it can be done once the feature is fully functioning.
+
+If you need to change behaviour, perhaps you need to spend more time with upfront planning and sharing this plan with other senior engineers who have context and are good at breaking down work.
