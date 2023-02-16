@@ -22,7 +22,7 @@ The issue is when the author feels compelled to address the issues right now. I�
 3. **Refactor=Black hole of infinite possibility**
     1. Rename things (classes, functions, variables)
     2. Restructure things (folders, files, order of operations that don’t cause tests to fail)
-    3. [INSERT_DESIGN_PATTERN_HERE]
+    3. [INSERT_DESIGN_PATTERN]
     4. Improve performance while maintaining behaviour*
     5. Anything else that makes engineers excited, while forgetting about deadlines and customer impact
     6. The less time you spend in “Red” and “Green”, the more time you *have* in “Refactor”
