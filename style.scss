@@ -124,6 +124,18 @@ code {
   border-radius: 6px;
 }
 
+table {
+  width: 100%;
+}
+
+th, td {
+  padding: 5px;
+}
+
+table, th, td {
+  border: 1px solid #999;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
