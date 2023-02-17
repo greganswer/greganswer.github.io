@@ -58,7 +58,7 @@ Remember that anything you put here is negotiable. Don’t worry about putting e
 
 Once you’ve filled out your matrix, you can use it as follows:
 
-1. During the Short Term time period, complete all the Musts. If time remains, move to the Shoulds and Coulds to complete this row (left to right).
+1. During the Short Term time period, **complete all the Musts.** If time remains, move to the Shoulds and Coulds to complete this row (left to right).
 2. When the Short Term time runs out and the Musts are complete, move to the Mid term row, move left to right.
 3. Repeat in the Long Term row.
 
