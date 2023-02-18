@@ -15,6 +15,16 @@ On this site, I share my experience on important concepts like:
 - [Breaking Down Work]({% post_url 2023-01-09-breaking-down-work %})
 - [Personal Problem Solving Template]({% post_url 2022-10-03-personal-problem-solving-template %})
 
+My most recent posts include:
+
+<ul>
+    {% for post in site.posts limit:3 %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
+
 My hobbies include studying software engineering, weight lifting, yoga, and of course, I couldn't live without [Star Trek](/tags/star-trek).
 
-If you liked the posts linked above, check out [more blog posts](/blog).
+If you liked the posts linked above, check out [more blog posts](/blog). Also [follow me on LinkedIn](https://www.linkedin.com/in/greganswer).
