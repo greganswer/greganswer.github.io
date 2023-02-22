@@ -27,4 +27,4 @@ My most recent posts include:
 
 My hobbies include studying software engineering, weight lifting, yoga, and of course, I couldn't live without [Star Trek](/tags/star-trek).
 
-If you liked the posts linked above, check out [more blog posts](/blog). Also [follow me on LinkedIn](https://www.linkedin.com/in/greganswer).
+If you liked the posts linked above, check out [more blog posts](/blog). Also [follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=greganswer).
