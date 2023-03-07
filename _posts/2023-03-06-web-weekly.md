@@ -22,3 +22,10 @@ What a scary title but an insightful article
 - Actually, it may be necessary for communication between astronauts and various countries
 - The European Space Agency proposes a standard time zone for the moon to ease collaboration
 - Lunar timekeeping is challenging due to tiny shifts in clock speeds and location variations
+
+## [Be careful what you type when importing packages](https://arstechnica.com/information-technology/2023/02/451-malicious-packages-available-in-pypi-contained-crypto-stealing-malware/)
+
+- Attackers upload packages with common typos (known as typosquatting)
+- These packages contain malware
+- This malware is executed unbeknownst to engineers
+- This has been happening for years but the code obfuscations are getting more sophisticated
