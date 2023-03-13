@@ -93,8 +93,3 @@ exclude:
 
 paginate: 10
 paginate_path: "/blog/page:num/"
-
-reading_time:
-  second_plural: "sec"    # default: seconds
-  minute_singular: "min"  # default: minute
-  minute_plural: "min"    # default: minutes
