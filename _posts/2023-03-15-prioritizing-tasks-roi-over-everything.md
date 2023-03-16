@@ -5,7 +5,7 @@ tags: time-mangement
 title: "Prioritizing Tasks: ROI Over Everything"
 ---
 
-On Sunday I was working on my blog. I wanted to add some Web Weekly content. I was looking at the exiting 3 Web Weekly posts and I thought it was time to move them to their own collection.
+On Sunday I was working on my blog. I wanted to add some Web Weekly content. I was looking at the existing 3 Web Weekly posts and I thought it was time to move them to their own collection.
 
 I’m using Jekyll to load my site so I’m kinda stuck with how this needs to be implemented. Though this may seem like a limitation, hopefully in the long run it will force me to focus on what’s important. The details of how this works are not relevant to this post.
 
@@ -29,4 +29,4 @@ With negligible consequence, this is a task that should be deferred or delegated
 
 The workaround right now is to use the tags. This is perfectly fine.
 
-If this becomes a pain point for readers, I will asses the situation in that moment. Not before. Even though I was hoping to make things ~~easier~~ prettier for myself, I just wasted time for a small potential return on investments (ROI). I need to focus on larger ROIs.
+If this becomes a pain point for readers, I will assess the situation in that moment. Not before. Even though I was hoping to make things ~~easier~~ prettier for myself, I just wasted time for a small potential return on investments (ROI). I need to focus on larger ROIs.
