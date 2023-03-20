@@ -3,7 +3,16 @@ layout: post
 date: 2023-03-07 21:05:00
 tags: ruby
 title: Ruby super( ) annoying, Ruby still awesome
+excerpt: 'Are you using inheritance in Ruby? Be careful when using "super". You might encounter some unexpected behaviour.'
 ---
+
+## TLDR
+
+- Use `super` when you want to call the parent with all of the current function's arguments
+- Use `super()` when you want to call the parent with none of the current function's arguments
+- Use `super(arg1, arg2)` when you want to call the parent with specific arguments or when none of the current function's arguments are being accepted for some reason
+
+## Ruby super( ) annoying
 
 Coding is hard, though some say I make it look easy. Here’s a fun Ruby surprise I experienced recently.
 
