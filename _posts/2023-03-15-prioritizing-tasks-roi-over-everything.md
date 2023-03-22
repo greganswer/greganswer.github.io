@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-15 21:05:00
-tags: time-mangement
+tags: time-management
 title: "Prioritizing Tasks: ROI Over Everything"
 ---
 
