@@ -13,4 +13,7 @@ Here are some things I say often:
 - Any project that takes longer than a week is at risk
 - With software, it's better to build something and turn if off than to talk about building something
 - With Pomodoros, I know exactly how much time I wasted on what
+
+## Things I've learned
+
 - By listing weekly priorities during busy times, it's like there's a storm outside, yet my house is water and sound proof
