@@ -20,7 +20,7 @@ The third error was about the incompatibility of a dev package and the new versi
 
 The fourth error was about the local AWS Dynamo DB dev package I was using. This package allows you to run the Serverless code locally by pointing to a local instance of Dynamo DB. An hour of research later, this package is no longer being maintained and any forks of it are also questionable. This mean no more local development for this project. 😞
 
-Oh well. I can alway just push the code to a “dev” server to not interfere with the actual APIs that depend on this mock service.
+Oh well. I can always just push the code to a “dev” server to not interfere with the actual APIs that depend on this mock service.
 
 The fifth error was one of my favorite random Cloud Formation errors. Once or twice before, during a deployment, I’ve seen this error. Thankfully I was only deploying to the “dev” server. It basically says that I have to go into the AWS Console and manually delete some services that may have been corrupted during the attempted deploy. At least I’m vaguely familiar with this one and now moving in the right direction. Delete all the related resources and try again.
 
