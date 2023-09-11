@@ -42,6 +42,8 @@ After a few days, I had to take step back and think about what I would do differ
 
 I believe 5 of these 7 errors would have been eliminated if I avoided the 3 things in the list above. I learned a lot using these tools and I have no regrets but I would not use them again for small projects.
 
+Try A/B testing your dependencies. Try working without one or more for a few weeks. If you still need them, document why with a few examples. You can add this to the project README for future developers to to review.
+
 I’m very cautious with production dependencies. I check for longevity, activity, popularity, and maintenance of packages before pulling them into my personal or professional projects.
 
 I have a few stories and there are many other stories of popular package that just stopped working one day. Just google “colors.js and faker.js”.
