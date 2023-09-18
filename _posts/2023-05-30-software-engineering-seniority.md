@@ -1,11 +1,12 @@
 ---
 layout: post
 date: 2023-05-30 12:05:00
-tags: design-patterns leadership ownership problem-solving product-managment time-management writing
+tags: design-patterns leadership ownership problem-solving product-management time-management writing
 ---
+
 Every engineer and every company has there own definitions of seniority. They have rubrics, require certain hard skills, and even behavioural aspects they need to see before they consider someone “senior”.
 
-I’ve been thinking about this for the past few months and I’ve come up with a simpler set of attributes that I need to see in good engineers. These are **Problem Solving, Communication, and Speed**. I believe these attributes should be learned in order. 
+I’ve been thinking about this for the past few months and I’ve come up with a simpler set of attributes that I need to see in good engineers. These are **Problem Solving, Communication, and Speed**. I believe these attributes should be learned in order.
 
 You will continue to enhance them over your career but you should aim to get each to an intermediate level before moving on to the next attributes. I’d much rather work with a person who can solve problems independently and slow than with someone who can only move fast and needs to be told exactly what to do. That’s what machines are for.
 
@@ -13,7 +14,7 @@ Below I break these skills down by engineer level, just to give you a better fee
 
 ### Junior
 
-Focus on Problem Solving. Deeply focus on this. Take extra time if you need to. This is the core skill of any engineer (software, hardware, civil, etc.). Learn how to take an idea/request and break it down into smaller more manageable problems. Come up with multiple solutions and discuss tradeoffs. 
+Focus on Problem Solving. Deeply focus on this. Take extra time if you need to. This is the core skill of any engineer (software, hardware, civil, etc.). Learn how to take an idea/request and break it down into smaller more manageable problems. Come up with multiple solutions and discuss tradeoffs.
 
 You can enhance this skill by:
 
@@ -32,7 +33,7 @@ Learn internal/external communication. It is not enough to solve problems. You h
 - Stakeholders
 - Customers
 
-The key here is to focus on positive interactions that make people want to continue to work with you. Efficiently communicating the right thing, to the right people, at the right time shows your level of responsibility (ownership) and builds people’s trust in you. 
+The key here is to focus on positive interactions that make people want to continue to work with you. Efficiently communicating the right thing, to the right people, at the right time shows your level of responsibility (ownership) and builds people’s trust in you.
 
 You can enhance this skill by:
 
@@ -67,7 +68,7 @@ You can enhance this skill by:
 
 In some companies you may need to show these skills before promotion. Example: improve external communication before being considered senior.
 
-In my opinion, everything else is a subset of these that can be learned: 
+In my opinion, everything else is a subset of these that can be learned:
 
 - On the job
 - Through reading
