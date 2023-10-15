@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m a Ruby on Rails Full Stack Developer from Toronto, Canada. I have a decade of experience from starting my own software company, to freelancing, to Senior Software Engineering Team Lead.
+I’m a Ruby on Rails Full Stack Developer from Toronto, Canada. I have a decade of experience from starting my own software company, to freelancing, to Lead Senior Software Engineering.
 
 I'm deeply focused on rapid prototyping and excellent user experience. I'm not satisfied until my code is clean, readable, and maintainable. I strive towards delivering the most impact with the least input. This level of efficiency helps to ensure user satisfaction as well as developer satisfaction.
 
