@@ -48,4 +48,4 @@ I’m very cautious with production dependencies. I check for longevity, activit
 
 I have a few stories and there are many other stories of popular package that just stopped working one day. Just google “colors.js and faker.js”.
 
-I once worked with an engineer who avoided dependencies as much as possible. Forget about production dependencies. Every time I wanted to add a dev dependency he would ask why I need it. I’d explain it to him and he say, *“You can just write that yourself.”* I thought he was crazy and paranoid. Now I am him.
+I once worked with a senior engineer who avoided dependencies as much as possible. Forget about production dependencies. Every time I wanted to add a dev dependency he would ask why I need it. I’d explain it to him and he'd say, *“You can just write that yourself.”* I thought he was crazy and paranoid. Now I am him.
